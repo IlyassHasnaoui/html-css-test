@@ -1,0 +1,15 @@
+h1,h2,h3,h4 {
+    color: whitesmoke;
+}
+p {
+    font-size: 70px;
+    font-weight: 900;
+    color: hotpink;
+   
+}
+
+img {
+    height: 600px;
+    width: 500px;
+}
+
